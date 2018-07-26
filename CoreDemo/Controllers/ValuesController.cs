@@ -6,6 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CoreDemo.Controllers
 {
+    /// <summary>
+    /// demo
+    /// </summary>
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
